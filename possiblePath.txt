@@ -1,0 +1,8 @@
+1. check if id is present in array
+2. if so, check if prop is track
+2.1 if notm check len of property
+	if len == 0 > remove
+	else update
+3. if prop = track
+3.1 check if nested array contains a prop called "track"
+	if not > create array > populate
